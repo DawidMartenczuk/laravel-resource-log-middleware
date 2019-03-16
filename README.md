@@ -69,3 +69,9 @@ $schedule->call(function () {
   return true;
 })->hourly();
 ```
+
+### Used skills
+
+* PHP7
+* Laravel framework
+* Using MVC Architecture essentials (middleware)
