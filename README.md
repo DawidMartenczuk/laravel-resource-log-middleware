@@ -1,6 +1,6 @@
-# laravel resource log middleware
+# laravel resources log middleware
 
-This middleware allows you to register resource usage in 10 minute intervals in your laravel application. All your resources logs are stored in JSON file in storage path, called _resource_logs.json_.
+This middleware allows you to register resources usage in 10 minute intervals in your laravel application. All your resources logs are stored in JSON file in storage path, called _resource_logs.json_.
 
 ## Installation
 
